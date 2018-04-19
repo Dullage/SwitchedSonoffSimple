@@ -32,7 +32,7 @@ I won't detail how to flash the Sonoff device with this firmware, there are alre
 
 *Note: If you flash the Sonoff sucessfully but nothing happens, try flashing the Sonoff with the 'Flash Mode' set to 'DOUT'.*
 
-The Sonoff device can be wired as usual however if you intend on using a switch you will need to attach some additional wires and resistors between the Sonoff and the switch. An example wiring diagram can be found in the repo: ![(WiringExample.png)](https://raw.githubusercontent.com/Dullage/SwitchedSonoff/master/WiringExample.png).
+The Sonoff device can be wired as usual however if you intend on using a switch you will need to attach some additional wires and resistors between the Sonoff and the switch. An example wiring diagram can be found in the repo: ![(WiringExample.png)](https://raw.githubusercontent.com/Dullage/SwitchedSonoffSimple/master/WiringExample.png).
 
 
 ## Transmission Codes
